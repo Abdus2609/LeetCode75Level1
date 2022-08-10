@@ -1,3 +1,3 @@
-# Leetcode75
+# LeetCode75
 
-My solutions to the Leetcode75 coding problems
+My solutions to the LeetCode75 coding problems
