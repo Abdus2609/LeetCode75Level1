@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class P13BinarySearch {
     public static int binarySearch(int[] nums, int target) {
         int startIndex = 0;

@@ -1,5 +1,3 @@
-import java.util.Random;
-
 public class P14FirstBadVersion {
     public static int firstBadVersion(int n) {
         int startVersion = 1;
